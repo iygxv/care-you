@@ -1,2 +1,2 @@
-# care-you
-vscode提醒插件, 呵护你的身心健康
+# care-you README
+vscode提醒插件(h)
